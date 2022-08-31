@@ -1,4 +1,4 @@
-<img src = "banner.gif" width = "470px" align = "right">
+<img src = "banner.gif" width = "3250px" align = "right">
 
 # ✌ Seja bem vindo(a) ao meu espaço. É um prazer te receber aqui!
 
