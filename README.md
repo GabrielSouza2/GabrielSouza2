@@ -3,7 +3,7 @@
 </center>
 
 # 💫 Sobre mim:
-🔭 Full-stack em formação<br>🌱 Aprendendo programação sem surtar<br>💬 Pergunte-me com quem andas e lhe direi quem és!<br>⚡ Curiosidade, não gosto de barulho pela manhã..
+🔭 Full-stack em formação<br>🌱 Aprendendo programação sem surtar<br>💬 Me diga com quem andas e lhe direi quem és!<br>⚡ Curiosidade: não gosto de barulho pela manhã..
 
 
 ## 🌐 Sociais:
