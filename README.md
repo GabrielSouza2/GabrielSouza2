@@ -1,5 +1,6 @@
+<center>
 <img width="700px" src="https://media0.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=790b76117918bbc69418bde1ca20ac7897d1f89568c82cbf&rid=giphy.gif&ct=g" style="max-width: 100%;">
-
+</center>
 
 # 💫 Sobre mim:
 🔭 Full-stack em formação<br>🌱 Aprendendo programação sem surtar<br>💬 Pergunte-me com quem andas e lhe direi quem és!<br>⚡ Curiosidade, não gosto de barulho pela manhã..
